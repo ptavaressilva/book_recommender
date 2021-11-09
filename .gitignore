@@ -1,2 +1,3 @@
 *.pkl
 /dataset*/
+.ipynb_checkpoints*

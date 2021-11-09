@@ -14,5 +14,5 @@ To run the Jupyter Notebooks of this project first download, extract and place t
 
 | Folder | Dataset source |
 |---|---|
-| /dataset1 | https://www.kaggle.com/arashnic/book-recommendation-dataset/version/1 |
-| /dataset2 | https://www.kaggle.com/sp1thas/book-depository-dataset |
+| /dataset1 | <https://www.kaggle.com/arashnic/book-recommendation-dataset/version/1> |
+| /dataset2 | <https://www.kaggle.com/sp1thas/book-depository-dataset> |
