@@ -33,4 +33,4 @@ It then outputs the URL that you can use in your host's browser to connect to Ju
 
 Please note that this container should not be exposed to the network as it is intended for educational purposes.
 
-The scope of this project does not include big data handling, therefore I reduced the dataset used for the content recommender, and it still required a hefty 24 GB of memory to calculate the TF-IDF matrix.
+The scope of this project does not include big data handling, therefore I reduced the dataset used for the content recommender, and it still required a hefty 27 GB of memory to calculate the TF-IDF matrix.
